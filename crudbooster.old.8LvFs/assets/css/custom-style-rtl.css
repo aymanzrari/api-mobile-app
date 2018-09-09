@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/elveticaNeueW23-Reg.eot) format('eot');
+    src: local('HelveticaNeueW23-Reg'),
+    url('../fonts/HelveticaNeueW23-Reg.eot?#iefix') format('embedded-opentype'),
+    url("../fonts/HelveticaNeueW23-Reg.woff") format("woff"),
+    url("../fonts/HelveticaNeueW23-Reg.ttf") format("truetype"),
+    url("../fonts/HelveticaNeueW23-Reg.svg#HelveticaNeueLTArabic55Roman") format("svg");
+}
+body,h1,h2,h3,h4,h5,h6,div,p,li,ol,ul{
+    font-family: "HelveticaNeue" !important;
+}
+
